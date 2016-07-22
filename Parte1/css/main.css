@@ -1,0 +1,17 @@
+.caja{
+ width: 800px;
+ border: 1px black solid;
+}
+.cajahijo{
+	width: 200px;
+	height: 150px;
+}
+.uno{
+	background-color: yellow;
+}
+.dos{
+	background-color: blue;	
+}
+.tres{
+	background-color: red;
+}
